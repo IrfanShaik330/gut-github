@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramewok>net50</TargetFramework>
+    <TargetFramework>net50</TargetFramework>
     
     <Nullable>enable</Nullable>
   </PropertyGroup>
