@@ -6,10 +6,7 @@
     
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  
-<ItemGroup>
-  <Compile Include="simple.cs" />
-</ItemGroup>
+
 
 
 </Project>
