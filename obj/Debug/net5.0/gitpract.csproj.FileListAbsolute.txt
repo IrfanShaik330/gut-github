@@ -1,0 +1,16 @@
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.csproj.AssemblyReference.cache
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.AssemblyInfoInputs.cache
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.AssemblyInfo.cs
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.csproj.CoreCompileInputs.cache
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\gitpract.exe
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\gitpract.deps.json
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\gitpract.runtimeconfig.json
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\gitpract.runtimeconfig.dev.json
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\gitpract.dll
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\ref\gitpract.dll
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\bin\Debug\net5.0\gitpract.pdb
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.dll
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\ref\gitpract.dll
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.pdb
+C:\Users\babas\OneDrive - Dun and Bradstreet\Desktop\gitpract\obj\Debug\net5.0\gitpract.genruntimeconfig.cache
