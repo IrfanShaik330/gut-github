@@ -4,6 +4,6 @@ class Prog
 {
     static void Main()
     {
-        ConsoWriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!")
     }
 }
